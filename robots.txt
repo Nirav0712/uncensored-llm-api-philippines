@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://nirav0712.github.io/uncensored-llm-api-philippines/sitemap.xml
+
+# Uncensored LLM API for developers in the Philippines
+# OpenAI-compatible language model API with no ideological filter. Base https://uncensored-llm.sbs/v1, streaming, tool calling, Taglish-friendly prompts, examples in Python and Node.
